@@ -1,0 +1,50 @@
+html { 
+    background: url('bg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color:rgb(223, 186, 253);
+    font-size: 48px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+h2{
+color:rgb(223, 186, 253);
+font-size: 19px;
+margin-top: 0;
+}
+
+.bio{
+    color:rgb(223, 186, 253);
+    font-style: normal;
+    font-size: 14px; 
+
+}
+
+.me {
+    height: 200px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: rgb(223, 186, 253);
+    margin-top: 40px;
+}
+
+.about {
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+
+.grey {
+    height: 3px;
+    background-color:  rgb(173, 161, 184);
+    border: none;
+    width: 75px;
+}
