@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i&display=swap" 
+        rel="stylesheet">
+        <meta name=”viewport” content=”width=device-width, initial-scale=1″>
+    </head>
+
+    <body>
+        <div class="about">
+            <img src="me.jpg" class="me" />
+
+            <h1>Ashleigh Heythaler</h1>
+            
+            <h2>Web Developer</h2>
+
+            <hr class="grey"/>
+
+            <p class="bio">Ashleigh Heythaler is a beginner web developer who has a basic understanding of HTML and CSS. 
+            She is currently working on gaining more skills by working through the Univeristy of Wisconsin extended campus
+            coding bootcamp.  
+            </p>
+
+        </div>
+    </body>
+
+
+</html>
